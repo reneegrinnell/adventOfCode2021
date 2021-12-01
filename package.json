@@ -1,0 +1,20 @@
+{
+  "name": "adventofcode2021",
+  "version": "1.0.0",
+  "description": "My (vanilla JS-based) solutions for the 2021 [Advent of Code](adventofcode.com) puzzles!",
+  "main": "01_sonar_sweep.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reneegrinnell/adventOfCode2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reneegrinnell/adventOfCode2021/issues"
+  },
+  "homepage": "https://github.com/reneegrinnell/adventOfCode2021#readme"
+}
