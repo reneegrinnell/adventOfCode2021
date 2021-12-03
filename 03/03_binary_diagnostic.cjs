@@ -29,6 +29,7 @@ for (let i = 0; i < binaryStrings.length; i++) {
   }
 }
 
+// Appending correct binary digit to the final Gamma and Epsilon strings
 function findGammaEpsilon() {
   if (zero > one) {
     gammaFinalBinary = gammaFinalBinary.concat('0');
