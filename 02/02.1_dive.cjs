@@ -5,6 +5,9 @@ fs.readFile("test_data.txt", "utf8", function (err, data) {
   console.log(readings);
 });
 
+// maybe try filtering by word next?
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+
 // const result = words.filter(word => word.length > 6);
 
 // console.log(result);
