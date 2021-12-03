@@ -1,4 +1,6 @@
-// Enormous hat tip to Github user Uptip for lines 14 and 15!!!
+// Instructions here: https://adventofcode.com/2021/day/2
+
+// Enormous hat tip to Github user Uptip for lines 16 and 17!!!
 // I was tearing my hair out over how to deal with the array of strings produced by line 8...
 // https://github.com/Uptip/advent-of-code-2021/blob/main/src/02/index.js
 
