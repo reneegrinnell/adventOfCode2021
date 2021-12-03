@@ -8,6 +8,7 @@ My (vanilla JS-based) solutions for the 2021 [Advent of Code](adventofcode.com) 
 * **Problem 2.1**
   * A new-to-me way of getting at my data with Node's [fs.readFile() method](https://www.geeksforgeeks.org/node-js-fs-readfile-method/).
   * While implementing the above, an error message led me to rename my JS file to [Common JS (.cjs) module format](https://blog.risingstack.com/node-js-at-scale-module-system-commonjs-require/). Then everything magically worked! Woo!
+  * New-to-me uses of the .map() method c/o [this awesome person's repo](https://github.com/Uptip/advent-of-code-2021/blob/main/src/02/index.js).
 * **Problem 2.2**
   * Wisdom forthcoming!
 ### Day 1
